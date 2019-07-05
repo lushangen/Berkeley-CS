@@ -1,0 +1,63 @@
+All questions are optional, though try to answer at least 4. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I managed to reuse my resize function in arraydeque for both sizing up and down.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: I think my print deque's could be shorter by getting rid of some cases.
+
+Q: What did you learn by talking to your partner about writing ArrayDeque?
+
+A: The deep copy can be accomplished by using systemcopy instead of using the AddLast method.
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A: I feel like creating a resize function first (even though the project said not to) would have been helpful.
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A: I would start with a resize function, then do the addLast, addFirst etc.
+
+-----
+
+LinkedListDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I agree that the sentinel nodes made the solution to linked list deque really easy, and I figured that out.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: Each time I wrote removeX, I had to check whether it was emtpy.
+
+Q: What did you learn by talking to your partner about writing LinkedListDeque?
+
+A: Sentinel nodes make life really easy.
+
+Q: What do you wish you would have known before writing LinkedListDeque, if anything?
+
+A: A better explanation of how sentinel nodes work would have been useful. It took a long time to figure that out.
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A: Nothing different.
+
+-----
+
+Meta:
+
+Q: Did you like this design review process? Anything we should do differently next time?
+
+A: It's alright.
