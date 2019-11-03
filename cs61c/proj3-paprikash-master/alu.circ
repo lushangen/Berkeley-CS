@@ -200,7 +200,7 @@ This file is intended to be loaded by Logisim-evolution (https://github.com/reds
       <a name="width" val="32"/>
       <a name="label" val="B"/>
     </comp>
-    <comp lib="0" loc="(200,310)" name="Pin">
+    <comp lib="0" loc="(200,310)" name="Pinn">
       <a name="width" val="4"/>
       <a name="label" val="ALUSel"/>
     </comp>
